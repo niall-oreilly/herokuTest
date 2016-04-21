@@ -1,1 +1,1 @@
-web: gunicorn niallshelloworld.wsgi:application
+web: gunicorn hello_world_heroku.wsgi:application

@@ -2,8 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0cb7094-84a4-4a22-a579-bf394e66b341" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/index.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/LICENSE" afterPath="$PROJECT_DIR$/static/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/README.md" afterPath="$PROJECT_DIR$/static/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/css/animate.min.css" afterPath="$PROJECT_DIR$/static/css/animate.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/css/creative.css" afterPath="$PROJECT_DIR$/static/css/creative.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/static/font-awesome/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/static/font-awesome/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/static/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/static/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/static/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/static/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/static/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/static/font-awesome/less/animated.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/static/font-awesome/less/bordered-pulled.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/static/font-awesome/less/core.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/static/font-awesome/less/fixed-width.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/static/font-awesome/less/font-awesome.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/static/font-awesome/less/icons.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/static/font-awesome/less/larger.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/static/font-awesome/less/list.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/static/font-awesome/less/mixins.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/static/font-awesome/less/path.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/static/font-awesome/less/rotated-flipped.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/static/font-awesome/less/stacked.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/static/font-awesome/less/variables.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_animated.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_core.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_fixed-width.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_icons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_larger.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_list.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_path.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_stacked.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/static/font-awesome/scss/font-awesome.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/img/header.jpg" afterPath="$PROJECT_DIR$/static/img/header.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/img/portfolio/1.jpg" afterPath="$PROJECT_DIR$/static/img/portfolio/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/img/portfolio/2.jpg" afterPath="$PROJECT_DIR$/static/img/portfolio/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/img/portfolio/3.jpg" afterPath="$PROJECT_DIR$/static/img/portfolio/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/img/portfolio/4.jpg" afterPath="$PROJECT_DIR$/static/img/portfolio/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/img/portfolio/5.jpg" afterPath="$PROJECT_DIR$/static/img/portfolio/5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/img/portfolio/6.jpg" afterPath="$PROJECT_DIR$/static/img/portfolio/6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/js/bootstrap.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/js/cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/static/js/cbpAnimatedHeader.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/js/classie.js" afterPath="$PROJECT_DIR$/static/js/classie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/js/creative.js" afterPath="$PROJECT_DIR$/static/js/creative.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/js/jquery.easing.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.easing.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/js/jquery.fittext.js" afterPath="$PROJECT_DIR$/static/js/jquery.fittext.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/js/jquery.js" afterPath="$PROJECT_DIR$/static/js/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/js/wow.min.js" afterPath="$PROJECT_DIR$/static/js/wow.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/less/creative.less" afterPath="$PROJECT_DIR$/static/less/creative.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/less/mixins.less" afterPath="$PROJECT_DIR$/static/less/mixins.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/staticfiles/less/variables.less" afterPath="$PROJECT_DIR$/static/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello_world_heroku/settings.py" afterPath="$PROJECT_DIR$/hello_world_heroku/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello_world_heroku/urls.py" afterPath="$PROJECT_DIR$/hello_world_heroku/urls.py" />
     </list>
     <ignored path="hello_world_heroku.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +90,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello_world_heroku/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="126" column="44" selection-start-line="126" selection-start-column="44" selection-end-line="126" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.7329843">
+              <caret line="126" column="49" selection-start-line="126" selection-start-column="49" selection-end-line="126" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -57,10 +122,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.66573036">
+            <state vertical-scroll-proportion="-9.115385">
               <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
               <folding />
             </state>
@@ -68,7 +133,7 @@
         </entry>
       </file>
       <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticfiles/font-awesome/css/font-awesome.min.css">
+        <entry file="file://$PROJECT_DIR$/static/font-awesome/css/font-awesome.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -78,7 +143,7 @@
         </entry>
       </file>
       <file leaf-file-name="core.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticfiles/font-awesome/less/core.less">
+        <entry file="file://$PROJECT_DIR$/static/font-awesome/less/core.less">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -88,7 +153,7 @@
         </entry>
       </file>
       <file leaf-file-name="list.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticfiles/font-awesome/less/list.less">
+        <entry file="file://$PROJECT_DIR$/static/font-awesome/less/list.less">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -98,7 +163,7 @@
         </entry>
       </file>
       <file leaf-file-name="path.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticfiles/font-awesome/less/path.less">
+        <entry file="file://$PROJECT_DIR$/static/font-awesome/less/path.less">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -108,19 +173,9 @@
         </entry>
       </file>
       <file leaf-file-name="icons.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticfiles/font-awesome/less/icons.less">
+        <entry file="file://$PROJECT_DIR$/static/font-awesome/less/icons.less">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticfiles/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="13.076923">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -217,6 +272,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello_world_heroku" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello_world_heroku" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello_world_heroku" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -561,7 +630,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/staticfiles/css/creative.css">
+    <entry file="file://$PROJECT_DIR$/static/css/creative.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -569,7 +638,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/staticfiles/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -577,7 +646,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/staticfiles/css/animate.min.css">
+    <entry file="file://$PROJECT_DIR$/static/css/animate.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -585,7 +654,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/staticfiles/css/bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -593,7 +662,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/staticfiles/font-awesome/css/font-awesome.css">
+    <entry file="file://$PROJECT_DIR$/static/font-awesome/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -601,7 +670,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/staticfiles/font-awesome/css/font-awesome.min.css">
+    <entry file="file://$PROJECT_DIR$/static/font-awesome/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -609,7 +678,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/staticfiles/font-awesome/less/core.less">
+    <entry file="file://$PROJECT_DIR$/static/font-awesome/less/core.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -617,7 +686,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/staticfiles/font-awesome/less/list.less">
+    <entry file="file://$PROJECT_DIR$/static/font-awesome/less/list.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -625,7 +694,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/staticfiles/font-awesome/less/path.less">
+    <entry file="file://$PROJECT_DIR$/static/font-awesome/less/path.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -633,26 +702,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/staticfiles/font-awesome/less/icons.less">
+    <entry file="file://$PROJECT_DIR$/static/font-awesome/less/icons.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staticfiles/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="13.076923">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -667,18 +720,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello_world_heroku/settings.py">
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="126" column="44" selection-start-line="126" selection-start-column="44" selection-end-line="126" selection-end-column="44" />
+        <state vertical-scroll-proportion="-9.115385">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66573036">
-          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello_world_heroku/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7329843">
+          <caret line="126" column="49" selection-start-line="126" selection-start-column="49" selection-end-line="126" selection-end-column="49" />
           <folding />
         </state>
       </provider>

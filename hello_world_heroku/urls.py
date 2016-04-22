@@ -16,10 +16,10 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from HelloWorld import views
-from django.contrib.staticfiles import views
+from django.contrib.staticfiles import views as static_views
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', views.get_index),
-    url(r'^static/(?P<path>.*)$', views.serve),
+    url(r'^static/(?P<path>.*)$', static_views.serve),
 ]
